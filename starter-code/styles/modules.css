@@ -53,7 +53,7 @@
   text-decoration: none;
 }
 
-@media screen and (min-width: 500px){
+@media only screen and (min-width: 500px){
   .hamburger{
     display: none;
   }
