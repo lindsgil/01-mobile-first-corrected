@@ -9,6 +9,12 @@
 }
 
 /* TODO: Add styles for the icon-menu class. It should be bigger, and off to the right. */
+.hamburger {
+  width: 34px;
+  float: right;
+  background-color: none;
+  border: 0px;
+}
 
 .main-nav {
   padding: 0.1em;
